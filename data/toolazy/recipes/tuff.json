@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#$",
+        "$#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:andesite"
+        },
+        "$": {
+            "item": "minecraft:gravel"
+        }
+    },
+    "result": {
+        "item": "minecraft:tuff",
+        "count": 4
+    }
+}
